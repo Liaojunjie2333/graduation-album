@@ -56,39 +56,23 @@
 ***
 ![智能毕业相册产品结构图.png](https://upload-images.jianshu.io/upload_images/9455181-39af9d5670fc0ab2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 九、产品使用流程图
+
+### 九、产品原型
 ***
-![智能毕业相册使用流程图.png](https://upload-images.jianshu.io/upload_images/9455181-b9f5398479ee0459.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+待完成...
 
-### 十、产品原型
-***
-#### 1.【班级成员】模块
-![【班级成员】.png](https://upload-images.jianshu.io/upload_images/9455181-532b337e2e6dfa02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-#### 2.【我】模块
-![【我】.png](https://upload-images.jianshu.io/upload_images/9455181-e8a099ce7e7b5027.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-#### 3.【照片识别】模块
-
-![【识别1】.png](https://upload-images.jianshu.io/upload_images/9455181-3f82a2b7432aca46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![【识别2】.png](https://upload-images.jianshu.io/upload_images/9455181-929bfab4457ebf0c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![【识别3】.png](https://upload-images.jianshu.io/upload_images/9455181-0c53dcc2b0e9fd01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-### 十一、API的使用水平
+### 十、API的使用水平
 ***
 - 百度人脸识别API-人脸检测与属性分析
 - 高德web服务API-地理编码
 - 高德web服务API-路径规划
 - 待完善...
 
-### 十二、API的使用比较分析
+### 十一、API的使用比较分析
 ***
 待完成...
 
-### 十三、API使用后风险报告
+### 十二、API使用后风险报告
 ***
 待完成...
 
